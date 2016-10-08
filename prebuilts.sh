@@ -11,4 +11,4 @@ while IFS= read -r FILE || [[ -n "$FILE" ]]; do
     if [ "$PERM" != "999" ] ; then
 	chmod "$PERM" ."$FILE"
     fi
-done < "prebuilts.txt"
+done < "files.txt"
