@@ -1,0 +1,12 @@
+remote object '/system/vendor/lib/libvp8dec_sa.ca7.so' does not exist
+remote object '/system/vendor/lib/libh264enc_sa.ca7.so' does not exist
+remote object '/system/vendor/lib/libvp8enc_sa.ca7.so' does not exist
+remote object '/system/vendor/lib/libvc1dec_sa.ca7.so' does not exist
+remote object '/system/vendor/lib/libh264enc_sb.ca7.so' does not exist
+remote object '/system/vendor/lib/libHEVCdec_sa.ca7.android.so' does not exist
+remote object '/system/xbin/BGW' does not exist
+remote object '/system/xbin/mnld' does not exist
+
+remote object '/system/lib64/hw/fingerprint.mt6753.so' does not exist
+
+remote object '/system/bin/mxg2320d' does not exist
