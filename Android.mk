@@ -1,6 +1,6 @@
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),thor_k506)
+ifeq ($(TARGET_DEVICE),thor)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libhwm
